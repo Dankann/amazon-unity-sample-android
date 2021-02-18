@@ -9,7 +9,6 @@
 SDK/*/Net35/bin/
 SDK/*/Net35/obj/
 SDK/*/packages/
-Assets/Plugins/
 
 # Visual Studio [Code] cache directory
 .vs/
