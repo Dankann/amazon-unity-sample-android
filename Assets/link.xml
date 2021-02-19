@@ -66,5 +66,4 @@
 
     <assembly fullname="AWSSDK.DynamoDBv2" preserve="all"/>
     <assembly fullname="AWSSDK.Lambda" preserve="all"/>
-    add more services that you need here...
 </linker>
