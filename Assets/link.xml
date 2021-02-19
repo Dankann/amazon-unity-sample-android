@@ -54,6 +54,16 @@
         <namespace fullname="Amazon.Util.Internal.PlatformServices" preserve="all"/>
     </assembly>
 
+    <assembly fullname="System.Reflection" preserve="all"/>
+    <assembly fullname="System.Collections.Immutable" preserve="all"/>
+    <assembly fullname="System.Memory" preserve="all"/>
+    <assembly fullname="System.Buffers" preserve="all"/>
+    <assembly fullname="System.Runtime.CompilerServices.Unsafe" preserve="all"/>
+    <assembly fullname="log4net" preserve="all"/>
+    <assembly fullname="GameLiftServerSDKNet45" preserve="all"/>
+    <assembly fullname="Newtonsoft.Json" preserve="all"/>
+    <assembly fullname="websocket-sharp" preserve="all"/>
+
     <assembly fullname="AWSSDK.DynamoDBv2" preserve="all"/>
     <assembly fullname="AWSSDK.Lambda" preserve="all"/>
     add more services that you need here...
